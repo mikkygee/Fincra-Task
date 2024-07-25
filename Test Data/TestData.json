@@ -1,0 +1,9 @@
+{
+  "validAdminEMail": "testing1@yopmail.com",
+  "validAdminPass": "Password12$",
+  "invalidEmail": "sdn8webdjh",
+  "noEmail": "",
+  "invalidPassword": "qwerty123456",
+  "noPassword": "",
+  "invalidForgetPasswordEmail": "xyz@munc.com"
+}
